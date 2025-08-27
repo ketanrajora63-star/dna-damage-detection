@@ -1,7 +1,5 @@
 # DNA Damage Detection (Baseline Repo)
 
-# DNA Damage Detection (Baseline Repo)
-
 A clean, from-scratch baseline pipeline inspired by the [MQP DNA Damage Detection project](https://github.com/Mcdonoughd/MQP).  
 The goal is to detect **DNA damage in fluorescent microscopy images of nuclei** and improve upon the baseline accuracy of ~74% reported in prior work.
 
